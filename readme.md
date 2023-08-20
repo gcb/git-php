@@ -7,7 +7,7 @@ Git-PHP
 [![License](https://img.shields.io/badge/license-New%20BSD-blue.svg)](https://github.com/czproject/git-php/blob/master/license.md)
 
 
-Library for work with Git repository in PHP.
+Library to work with Git repository in PHP via shell execute on the git binary.
 
 <a href="https://www.janpecha.cz/donate/git-php/"><img src="https://buymecoffee.intm.org/img/donate-banner.v1.svg" alt="Donate" height="100"></a>
 
